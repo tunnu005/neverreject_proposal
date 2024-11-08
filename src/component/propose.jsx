@@ -3,7 +3,7 @@
 import { useState } from 'react'
 import { motion } from 'framer-motion'
 import confetti from 'canvas-confetti'
-import image3 from '../../public/3.png'
+import image3 from '../../public/4.png'
 export default function Component() {
   const [showBox, setShowBox] = useState(false)
   const [showHeart, setShowHeart] = useState(false)
